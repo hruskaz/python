@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Muni", "Muni\Muni.pyproj", "{2BDA39B5-252D-41E4-A35C-0B9A0137BCC3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Muni.tests", "Muni.tests\Muni.tests.pyproj", "{34BA205C-4BA8-42D5-BD1B-5223F33777FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BDA39B5-252D-41E4-A35C-0B9A0137BCC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDA39B5-252D-41E4-A35C-0B9A0137BCC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34BA205C-4BA8-42D5-BD1B-5223F33777FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34BA205C-4BA8-42D5-BD1B-5223F33777FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F1C1EC1-D71F-431D-BCB3-23E9A9669939}
+	EndGlobalSection
+EndGlobal
